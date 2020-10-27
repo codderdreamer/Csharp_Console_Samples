@@ -1,0 +1,5 @@
+C:\Users\sevda\Desktop\C#_Consol_Samples\Fibonacci_Dizisi\Fibonacci_Dizisi\bin\Debug\Fibonacci_Dizisi.exe.config
+C:\Users\sevda\Desktop\C#_Consol_Samples\Fibonacci_Dizisi\Fibonacci_Dizisi\bin\Debug\Fibonacci_Dizisi.exe
+C:\Users\sevda\Desktop\C#_Consol_Samples\Fibonacci_Dizisi\Fibonacci_Dizisi\bin\Debug\Fibonacci_Dizisi.pdb
+C:\Users\sevda\Desktop\C#_Consol_Samples\Fibonacci_Dizisi\Fibonacci_Dizisi\obj\Debug\Fibonacci_Dizisi.exe
+C:\Users\sevda\Desktop\C#_Consol_Samples\Fibonacci_Dizisi\Fibonacci_Dizisi\obj\Debug\Fibonacci_Dizisi.pdb

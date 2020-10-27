@@ -1,0 +1,5 @@
+C:\Users\sevda\Desktop\C#_Consol_Samples\String_Samples3\String_Samples3\bin\Debug\String_Samples3.exe.config
+C:\Users\sevda\Desktop\C#_Consol_Samples\String_Samples3\String_Samples3\bin\Debug\String_Samples3.exe
+C:\Users\sevda\Desktop\C#_Consol_Samples\String_Samples3\String_Samples3\bin\Debug\String_Samples3.pdb
+C:\Users\sevda\Desktop\C#_Consol_Samples\String_Samples3\String_Samples3\obj\Debug\String_Samples3.exe
+C:\Users\sevda\Desktop\C#_Consol_Samples\String_Samples3\String_Samples3\obj\Debug\String_Samples3.pdb

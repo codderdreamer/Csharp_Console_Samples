@@ -1,0 +1,6 @@
+C:\Users\sevda\Desktop\C#_Consol_Samples\AlanVeCevreHesapla\AlanVeCevreHesapla\bin\Debug\AlanVeCevreHesapla.exe.config
+C:\Users\sevda\Desktop\C#_Consol_Samples\AlanVeCevreHesapla\AlanVeCevreHesapla\bin\Debug\AlanVeCevreHesapla.exe
+C:\Users\sevda\Desktop\C#_Consol_Samples\AlanVeCevreHesapla\AlanVeCevreHesapla\bin\Debug\AlanVeCevreHesapla.pdb
+C:\Users\sevda\Desktop\C#_Consol_Samples\AlanVeCevreHesapla\AlanVeCevreHesapla\obj\Debug\AlanVeCevreHesapla.csprojAssemblyReference.cache
+C:\Users\sevda\Desktop\C#_Consol_Samples\AlanVeCevreHesapla\AlanVeCevreHesapla\obj\Debug\AlanVeCevreHesapla.exe
+C:\Users\sevda\Desktop\C#_Consol_Samples\AlanVeCevreHesapla\AlanVeCevreHesapla\obj\Debug\AlanVeCevreHesapla.pdb

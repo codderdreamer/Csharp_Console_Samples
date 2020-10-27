@@ -1,0 +1,5 @@
+C:\Users\sevda\Desktop\C#_Consol_Samples\Tam_Bolenleri_Bulma\Tam_Bolenleri_Bulma\bin\Debug\Tam_Bolenleri_Bulma.exe.config
+C:\Users\sevda\Desktop\C#_Consol_Samples\Tam_Bolenleri_Bulma\Tam_Bolenleri_Bulma\bin\Debug\Tam_Bolenleri_Bulma.exe
+C:\Users\sevda\Desktop\C#_Consol_Samples\Tam_Bolenleri_Bulma\Tam_Bolenleri_Bulma\bin\Debug\Tam_Bolenleri_Bulma.pdb
+C:\Users\sevda\Desktop\C#_Consol_Samples\Tam_Bolenleri_Bulma\Tam_Bolenleri_Bulma\obj\Debug\Tam_Bolenleri_Bulma.exe
+C:\Users\sevda\Desktop\C#_Consol_Samples\Tam_Bolenleri_Bulma\Tam_Bolenleri_Bulma\obj\Debug\Tam_Bolenleri_Bulma.pdb
